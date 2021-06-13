@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+	font-family: 'New Tegomin', sans-serif;
+    font-size:18px; 
+    color:#ffffff; 
+    background:#000000;
+
+}
+
+.circle{
+    width:30px;
+    height:30px;
+    border-radius:50px;
+    font-size:20px;
+    line-height:100px;
+    text-align:center;
+    background:#000
+}
+
+
+.logo{
+    width: 30px;
+    height: 30px;
+    margin: 0px 20px 0px 0px;
+    display: block;
+    flex: 1;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Lexend', sans-serif;
+	color: pink;
+
+}
+
+navbar-inverse .nav li a .glyphicon 
+{
+    color: #e96363;
+} 
+
